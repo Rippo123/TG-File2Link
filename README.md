@@ -57,7 +57,7 @@
 
 ### Original Repository
 
-The main working part was taken from [Megatron](https://github.com/eyaadh/megadlbot_oss) and thanks to [eyaadh](https://github.com/eyaadh) for his awesome project.
+The main working part was taken from [Megatron](https://github.com/Rippo123/megadlbot_oss) and thanks to [eyaadh](https://github.com/eyaadh) for his awesome project.
 
 ## How to make your own
 
